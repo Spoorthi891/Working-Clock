@@ -1,0 +1,48 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background: yellow;
+	background-image: url("../Clock.png");
+
+	padding-top: 200px;
+
+}
+
+.main{
+	background-color: #ccc;
+	width: 400px;
+	height: 175px;
+	margin: 100px auto;
+}
+
+.badge{
+	background-color: red;
+	width:100px;
+	padding-left: 22px;
+	padding-top: 5px;
+	padding-bottom: 3px;
+	margin-left: 620px;
+	font-family: sans-serif;
+	font-weight: bold;
+	position: absolute;
+	top: 87px;
+	left: 100px;
+	margin-top: 200px;
+
+}
+
+.clock{
+	text-align: center;
+	font-size: 60px;
+	padding-top: 40px;
+
+
+
+}
+header{
+	font-size: 100px;
+}
